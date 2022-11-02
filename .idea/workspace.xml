@@ -4,104 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c588fa59-64ec-4ed9-8bc0-539d81f6a7be" name="Changes" comment="Feat: add new pwa.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/.last_build_id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/AssetManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/NOTICES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/fonts/Rubik-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/Method_Mastercard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/Method_Mir.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/Method_Visa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/Method_Visa_gray.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/add_icon_green.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/arrow%20down.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/arrow%20left.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/arrow%20right.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/arrow%20up.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/arrow_right_gray.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/auto%20pay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/between%20accounts.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/black%20card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/by%20details.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/call.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/car.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/card%20transfer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/card_green.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/card_red.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/chat.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/chi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/credit%20card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/debit%20card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/debt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/exit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/eye%20off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/eye%20on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/gold%20card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/history.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/home.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/ic_main.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/ic_minus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/ic_plus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/icon%2024px_clear.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/icon%2024px_info.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/internet.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/mobile%20connection.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/notification_off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/notification_on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/open%20an%20account.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/passport.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/payments.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/phone%20pay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/pig.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/public%20utilities.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/purchase.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/qr%20pay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/request%20money.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/service.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/services.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/settings.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/silver%20card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/sniels.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/social%20media.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/sun.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/transfer%20to%20card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/tv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/icons/withdraw%20cash.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/images/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/images/card_image_001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/images/card_image_002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/images/card_image_003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/assets/images/profile_avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/flutter_service_worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/main.dart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/version.json" beforeDir="false" />
-    </list>
+    <list default="true" id="c588fa59-64ec-4ed9-8bc0-539d81f6a7be" name="Changes" comment="Feat: add new pwa." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -331,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667393703703</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Feat: add new pwa.">
+      <created>1667395153340</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667395153340</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Feat: add new pwa.">
+      <created>1667395310710</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667395310710</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
