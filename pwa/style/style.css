@@ -1,0 +1,69 @@
+body {
+  inset: 0; overflow: hidden;
+  margin: 0; padding: 0;
+  position: fixed;
+  background: #FFED4A;
+}
+
+#loading {
+  align-items: center;
+  display: flex;
+  height: 80%;
+  justify-content: center;
+  width: 100%;
+}
+
+#loading img {
+  height: 25%;
+  position: relative;
+  top: -15%;
+}
+
+#bottom {
+  align-items: center;
+  display: flex;
+  height: 20%;
+  justify-content: center;
+  width: 100%;
+}
+
+.spinner {
+	 animation: rotator 1.4s linear infinite;
+	 height: 4em;
+}
+ @keyframes rotator {
+	 0% {
+		 transform: rotate(0deg);
+	}
+	 100% {
+		 transform: rotate(270deg);
+	}
+}
+ .path {
+	 stroke-dasharray: 187;
+	 stroke-dashoffset: 0;
+	 transform-origin: center;
+	 height: 20px;
+	 animation: dash 1.4s ease-in-out infinite, colors 5.6s ease-in-out infinite;
+}
+ @keyframes colors {
+	 0% {
+		 stroke: #000;
+	}
+	100% {
+    		 stroke: #000;
+    	}
+}
+ @keyframes dash {
+	 0% {
+		 stroke-dashoffset: 187;
+	}
+	 50% {
+		 stroke-dashoffset: 46.75;
+		 transform: rotate(135deg);
+	}
+	 100% {
+		 stroke-dashoffset: 187;
+		 transform: rotate(450deg);
+	}
+}
