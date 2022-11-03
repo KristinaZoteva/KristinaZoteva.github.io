@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c588fa59-64ec-4ed9-8bc0-539d81f6a7be" name="Changes" comment="Feat: add new pwa." />
+    <list default="true" id="c588fa59-64ec-4ed9-8bc0-539d81f6a7be" name="Changes" comment="Feat: add new pwa.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,27 +46,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667370646975</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Feat: add build pwa&amp;.">
-      <created>1667371387185</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1667371387185</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Feat: change name">
-      <created>1667371795760</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1667371795760</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Feat: add new pwa.">
-      <created>1667372697794</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1667372697794</updated>
     </task>
     <task id="LOCAL-00005" summary="Feat: add new pwa.">
       <created>1667372959482</created>
@@ -388,7 +369,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667492150714</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Feat: add new pwa.">
+      <created>1667492307805</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1667492307805</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Feat: add new pwa.">
+      <created>1667492369975</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1667492369975</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Feat: add new pwa.">
+      <created>1667492468230</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1667492468230</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
