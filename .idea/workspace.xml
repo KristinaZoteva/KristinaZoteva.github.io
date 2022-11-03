@@ -97,12 +97,7 @@
       <change beforePath="$PROJECT_DIR$/pwa/assets/assets/images/profile_avatar.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/assets/assets/images/vladimir.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/canvaskit/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/canvaskit/canvaskit.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/canvaskit/profiling/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/canvaskit/profiling/canvaskit.wasm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/flutter.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/flutter_service_worker.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/icons/Icon-192.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/icons/Icon-512.png" beforeDir="false" />
@@ -110,7 +105,6 @@
       <change beforePath="$PROJECT_DIR$/pwa/icons/Icon-maskable-512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/main.dart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa/main.dart.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/manifest.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/res/splash_logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pwa/script/loading.js" beforeDir="false" />
@@ -156,20 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667370646975</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Feat: add new pwa.">
-      <created>1667376498554</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1667376498554</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Feat: add new pwa.">
-      <created>1667376560942</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1667376560942</updated>
     </task>
     <task id="LOCAL-00016" summary="Feat: add new pwa.">
       <created>1667383438698</created>
@@ -500,7 +480,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667495370909</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Feat: add new pwa.">
+      <created>1667505053810</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1667505053810</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Feat: add new pwa.">
+      <created>1667505161690</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1667505161690</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
