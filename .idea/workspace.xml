@@ -45,13 +45,6 @@
       <option name="presentableId" value="Default" />
       <updated>1667370646975</updated>
     </task>
-    <task id="LOCAL-00040" summary="Feat: add new pwa.">
-      <created>1667490401688</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1667490401688</updated>
-    </task>
     <task id="LOCAL-00041" summary="Feat: add new pwa.">
       <created>1667490450903</created>
       <option name="number" value="00041" />
@@ -388,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667894310735</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Feat: add new pwa.">
+      <created>1667895011082</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1667895011082</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
