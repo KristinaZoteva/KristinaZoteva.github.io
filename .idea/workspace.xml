@@ -48,20 +48,6 @@
       <option name="presentableId" value="Default" />
       <updated>1667370646975</updated>
     </task>
-    <task id="LOCAL-00086" summary="Feat: add new pwa.">
-      <created>1667893881101</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1667893881101</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Feat: add new pwa.">
-      <created>1667894121603</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1667894121603</updated>
-    </task>
     <task id="LOCAL-00088" summary="Feat: add new pwa.">
       <created>1667894310735</created>
       <option name="number" value="00088" />
@@ -391,7 +377,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668420780183</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="Feat: add new pwa.">
+      <created>1668421451335</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1668421451335</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Feat: add new pwa.">
+      <created>1668421642997</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1668421642997</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
